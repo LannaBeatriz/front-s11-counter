@@ -16,7 +16,7 @@ function App() {
         <p id = "countText">You clicked {count} times</p>
 
         <p id = "lindos">
-          Olá meus amigos, tudo bem?
+          Obrigado lindão
         </p>
       </div>
     </>
